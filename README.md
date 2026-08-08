@@ -343,7 +343,7 @@ php -S localhost:8000
 # 1. Fork 本仓库
 
 # 2. 克隆你的 Fork
-git clone https://github.com/你的用户名/webgl-gesture-particle-demo.git
+git clone https://github.com/Aventardo7777/webgl-gesture-particle-demo.git
 
 # 3. 创建特性分支
 git checkout -b feature/amazing-effect
